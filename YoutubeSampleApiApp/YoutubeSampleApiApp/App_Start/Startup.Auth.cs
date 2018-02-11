@@ -60,8 +60,8 @@ namespace YoutubeSampleApiApp
 
             app.UseGoogleAuthentication(new GoogleOAuth2AuthenticationOptions()
             {
-                ClientId = "190361038393-tp6nkk2t5372f5da7fu0j6ckr178eopf.apps.googleusercontent.com",
-                ClientSecret = "cMILzoMTLaisnMXSnkNKLnYQ"
+                ClientId = "190361038393-lq4dja71aoshetq4rf7v8jf07enb8922.apps.googleusercontent.com",
+                ClientSecret = "Cp2mZKXaYOneJcO7BTimueM0"
             });
         }
     }
