@@ -14,20 +14,32 @@ namespace YoutubeSampleApiApp.YoutubeAPI
     {
         private static YouTubeService youtubeService = YoutubeApi.Auth();
 
-        public async Task GetPlaylist(string playlistId)
+        public Playlist GetPlaylistList(string channelId)
         {
-            if (playlistId != null)
+            Playlist playList = null;
+            if (channelId != null)
             {
                 var listRequest = youtubeService.Playlists.List("snippet,contentDetails");
-                listRequest.ChannelId = playlistId;
+                listRequest.ChannelId = channelId;
                 listRequest.MaxResults = 25;
 
-                 var result =  await listRequest.ExecuteAsync();
+                var response =   listRequest.Execute();
+                if(response.Items.Count > 0)
+                {
+                    foreach(var item in response.Items)
+                    {
+                        playList = new Playlist();
+                        playList.Snippet = response.Items[0].Snippet;
+                        playList.ContentDetails = response.Items[0].ContentDetails;
+                    }
+                }
             }
             else
+            {
                 throw new Exception("Playlist not found");
+            }
+            return playList;
         }
-      
 
         public async Task CreatePlayList()
         {
@@ -59,6 +71,23 @@ namespace YoutubeSampleApiApp.YoutubeAPI
             }
             else
                 throw new Exception("Playlist not found");
+        }
+
+        public async Task UpdatePlaylist(string playlistId)
+        {
+            Playlist playlist = new Playlist();
+            playlist.Snippet = new PlaylistSnippet();
+            playlist.Status = new PlaylistStatus();
+
+            playlist.Id = playlistId;
+            playlist.Snippet.Title = "Sample Deneme";
+            playlist.Snippet.Description = "It has been created with Youtube API v3";
+            playlist.Status.PrivacyStatus = "public";
+
+
+            var updateRequest = youtubeService.Playlists.Update(playlist, "snippet,status");
+            await updateRequest.ExecuteAsync();
+
         }
     }
 }

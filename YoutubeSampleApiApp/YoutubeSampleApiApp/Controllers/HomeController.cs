@@ -14,15 +14,16 @@ namespace YoutubeSampleApiApp.Controllers
     {
         VideoApi v = new VideoApi();
         PlaylistApi p = new PlaylistApi();
+        PlaylistItemApi pi = new PlaylistItemApi();
 
         public ActionResult Index()
         {
-            //string id = "UCGLu20iKuz8ZzZ8xYv5YsXA";
-            // p.GetPlaylist(id);
+            //string pid = "uzaVE6x81GU";
+            //var result = pi.DeletePlaylistItem(pid);
 
-            string id = "7s8pMXrNDtY";
-            var result = v.GetVideo(id);
-            return View(result);
+            pi.UpdatePlaylistItem().Wait();
+
+            return View();
         }
 
         public ActionResult About()

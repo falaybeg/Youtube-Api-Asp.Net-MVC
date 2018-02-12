@@ -31,7 +31,10 @@ namespace YoutubeSampleApiApp.Youtube_API
                     GoogleClientSecrets.Load(stream).Secrets,
                     new[]
                     {
-                        YouTubeService.Scope.Youtube
+                        YouTubeService.Scope.Youtube,
+                        YouTubeService.Scope.YoutubeForceSsl,
+                        YouTubeService.Scope.YoutubeUpload,
+                        YouTubeService.Scope.Youtubepartner
                     },
                     "user",
                     CancellationToken.None,
