@@ -6,21 +6,22 @@ using System.Web;
 using System.Web.Mvc;
 using YoutubeSampleApiApp.Models;
 using YoutubeSampleApiApp.Youtube_API;
+using YoutubeSampleApiApp.YoutubeAPI;
 
 namespace YoutubeSampleApiApp.Controllers
 {
     public class HomeController : Controller
     {
-        VideoApi p = new VideoApi();
-       
+        VideoApi v = new VideoApi();
+        PlaylistApi p = new PlaylistApi();
+
         public ActionResult Index()
         {
+            //string id = "UCGLu20iKuz8ZzZ8xYv5YsXA";
+            // p.GetPlaylist(id);
 
-
-            string id = "uF-wQm0Pi9o";
-            
-            var result = p.GetVideoInfo(id);
-
+            string id = "7s8pMXrNDtY";
+            var result = v.GetVideo(id);
             return View(result);
         }
 
