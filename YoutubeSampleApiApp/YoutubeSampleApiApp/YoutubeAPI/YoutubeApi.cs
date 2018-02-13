@@ -1,19 +1,10 @@
 ﻿using Google.Apis.Auth.OAuth2;
-using Google.Apis.Auth.OAuth2.Flows;
-using Google.Apis.Util;
+using Google.Apis.Auth;
 using Google.Apis.YouTube.v3;
 using Google.Apis.Services;
 using Google.Apis.Util.Store;
 using System.IO;
 using System.Threading;
-
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-using YoutubeSampleApiApp.Models;
-using System.Threading.Tasks;
-using Google.Apis.YouTube.v3.Data;
 using System.Reflection;
 
 namespace YoutubeSampleApiApp.Youtube_API

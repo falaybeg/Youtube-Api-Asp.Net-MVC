@@ -20,8 +20,8 @@ namespace YoutubeSampleApiApp.Controllers
         {
             //string pid = "uzaVE6x81GU";
             //var result = pi.DeletePlaylistItem(pid);
+            v.GetRatingVideo("Pp8boH-iTdg").Wait();
 
-            pi.UpdatePlaylistItem().Wait();
 
             return View();
         }

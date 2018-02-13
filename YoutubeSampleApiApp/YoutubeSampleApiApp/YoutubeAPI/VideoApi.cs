@@ -15,62 +15,13 @@ using Google.Apis.Util.Store;
 using Google.Apis.YouTube.v3;
 using Google.Apis.YouTube.v3.Data;
 using YoutubeSampleApiApp.Models;
+using static Google.Apis.YouTube.v3.VideosResource.RateRequest;
 
 namespace YoutubeSampleApiApp.Youtube_API
 {
     public class VideoApi
     {
         private static YouTubeService youtubeService = YoutubeApi.Auth();
-
-        public async Task UploadVideo()
-        {
-            var video = new Video();
-            video.Snippet = new VideoSnippet();
-            video.Snippet.Title = "Default Video Title";
-            video.Snippet.Description = "Default Video Description";
-            video.Snippet.Tags = new string[] { "tag1", "tag2" };
-            video.Snippet.CategoryId = "22"; // See https://developers.google.com/youtube/v3/docs/videoCategories/list
-            video.Status = new VideoStatus();
-            video.Status.PrivacyStatus = "unlisted"; // or "private" or "public"
-            var filePath = @"Introduction.mp4"; // Replace with path to actual movie file.
-
-            using (var fileStream = new FileStream(filePath, FileMode.Open))
-            {
-                var videosInsertRequest = youtubeService.Videos.Insert(video, "snippet,status", fileStream, "video/*");
-                await videosInsertRequest.UploadAsync();
-            }
-        }
-
-        public async Task DeleteVideo(string id)
-        {
-            UserCredential credential;
-            using (var stream = new FileStream("youtube_client_secret.json", FileMode.Open, FileAccess.Read))
-            {
-                credential = await GoogleWebAuthorizationBroker.AuthorizeAsync(
-                    GoogleClientSecrets.Load(stream).Secrets,
-                    new[] 
-                    {
-                        
-                        YouTubeService.Scope.YoutubeReadonly
-                   
-                    },
-                    "user",
-                    CancellationToken.None
-                );
-            }
-
-            youtubeService = new YouTubeService(new BaseClientService.Initializer()
-            {
-                HttpClientInitializer = credential,
-                ApiKey = "AIzaSyD6WcIzb523-YYMz2vCXBJMeG4S7OGvM7Y",
-                ApplicationName = Assembly.GetExecutingAssembly().GetName().Name
-            });
-
-
-            var videosInsertRequest = youtubeService.Videos.Delete(id.ToString());
-            await videosInsertRequest.ExecuteAsync();
-                     
-        }
 
         public YoutubeVideo GetVideo(string id)
         {
@@ -94,6 +45,48 @@ namespace YoutubeSampleApiApp.Youtube_API
             }
             return video;
         }
+        public async Task CreateVideo()
+        {
+            var video = new Video();
+            video.Snippet = new VideoSnippet();
+            video.Snippet.Title = "Default Video Title";
+            video.Snippet.Description = "Default Video Description";
+            video.Snippet.Tags = new string[] { "tag1", "tag2" };
+            video.Snippet.CategoryId = "22"; // See https://developers.google.com/youtube/v3/docs/videoCategories/list
+            video.Status = new VideoStatus();
+            video.Status.PrivacyStatus = "public"; // or "private" or "public"
+            var filePath = @"D:\Introduction.mp4"; // Replace with path to actual movie file.
+
+
+            using (var fileStream = new FileStream(filePath, FileMode.Open, FileAccess.Read))
+            {
+                var videosInsertRequest = youtubeService.Videos.Insert(video, "snippet,status", fileStream, "video/*");
+                await videosInsertRequest.UploadAsync();
+            }
+        }
+
+        public async Task UpdateVideo()
+        {
+            var video = new Video();
+            video.Snippet = new VideoSnippet();
+            video.Id = "uzaVE6x81GU";
+            video.Snippet.Title = "Kayhan Tutorial";
+            video.Snippet.Description = "Bu videoda yazilim egitimi verilmektedir";
+            video.Snippet.CategoryId = "2"; // See https://developers.google.com/youtube/v3/docs/videoCategories/list
+            video.Snippet.DefaultLanguage = "en";
+            video.Snippet.Tags = new string[] { "sample", "deneme" };
+            video.Status = new VideoStatus();
+            video.Status.PrivacyStatus = "public";
+
+            var updateRequest = youtubeService.Videos.Update(video, "snippet,status");
+            await updateRequest.ExecuteAsync();
+        }
+
+        public async Task DeleteVideo(string id)
+        {
+            var videosInsertRequest = youtubeService.Videos.Delete(id.ToString());
+            await videosInsertRequest.ExecuteAsync();
+        }
 
         public List<YoutubeVideo> GetAllVideo()
         {
@@ -101,5 +94,29 @@ namespace YoutubeSampleApiApp.Youtube_API
 
             return null;
         }
+
+        public async Task RateVideo(string id)
+        {
+            /*
+             RatingEnum.Like
+             RatingEnum.Dislike
+             RatingEnum.None
+             */
+            var rateRequest = youtubeService.Videos.Rate(id, RatingEnum.None);
+            await rateRequest.ExecuteAsync();
+        }
+
+        public async Task GetRatingVideo(string id)
+        {
+            var getRatingRequest = youtubeService.Videos.GetRating(id);
+            await getRatingRequest.ExecuteAsync();
+        }
+
+        public async Task ReportAbuseVideo()
+        {
+            //var reportRequest = youtubeService.Videos.ReportAbuse();
+        }
+
+
     }
 }
