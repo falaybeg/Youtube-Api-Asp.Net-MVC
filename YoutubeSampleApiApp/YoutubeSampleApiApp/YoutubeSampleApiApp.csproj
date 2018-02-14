@@ -73,6 +73,9 @@
     <Reference Include="Google.Apis.YouTube.v3, Version=1.32.2.1131, Culture=neutral, PublicKeyToken=4b01fa6e34db77ab, processorArchitecture=MSIL">
       <HintPath>..\packages\Google.Apis.YouTube.v3.1.32.2.1131\lib\net45\Google.Apis.YouTube.v3.dll</HintPath>
     </Reference>
+    <Reference Include="Google.Apis.YouTubeAnalytics.v1, Version=1.32.2.1138, Culture=neutral, PublicKeyToken=4b01fa6e34db77ab, processorArchitecture=MSIL">
+      <HintPath>..\packages\Google.Apis.YouTubeAnalytics.v1.1.32.2.1138\lib\net45\Google.Apis.YouTubeAnalytics.v1.dll</HintPath>
+    </Reference>
     <Reference Include="Google.GData.Client, Version=2.2.0.0, Culture=neutral, PublicKeyToken=04a59ca9b0273830, processorArchitecture=MSIL">
       <HintPath>..\packages\Google.GData.Client.2.2.0.0\lib\Google.GData.Client.dll</HintPath>
     </Reference>
@@ -271,10 +274,13 @@
     <Compile Include="YoutubeAPI\CommentsApi.cs" />
     <Compile Include="YoutubeAPI\CommentThreadsApi.cs" />
     <Compile Include="YoutubeAPI\GuideCategoriesApi.cs" />
+    <Compile Include="YoutubeAPI\I18nLanguagesApi.cs" />
+    <Compile Include="YoutubeAPI\I18RegionsApi.cs" />
     <Compile Include="YoutubeAPI\PlaylistItemApi.cs" />
     <Compile Include="YoutubeAPI\SearchApi.cs" />
     <Compile Include="YoutubeAPI\SubscriptonApi.cs" />
     <Compile Include="YoutubeAPI\ThumbnailsApi.cs" />
+    <Compile Include="YoutubeAPI\VideoAbuseReportReasons.cs" />
     <Compile Include="YoutubeAPI\VideoCategoriesApi.cs" />
     <Compile Include="YoutubeAPI\WatermarkApi.cs" />
     <Compile Include="YoutubeAPI\YoutubeApi.cs" />
