@@ -275,6 +275,7 @@
     <Compile Include="YoutubeAPI\SearchApi.cs" />
     <Compile Include="YoutubeAPI\SubscriptonApi.cs" />
     <Compile Include="YoutubeAPI\ThumbnailsApi.cs" />
+    <Compile Include="YoutubeAPI\VideoCategoriesApi.cs" />
     <Compile Include="YoutubeAPI\WatermarkApi.cs" />
     <Compile Include="YoutubeAPI\YoutubeApi.cs" />
     <Compile Include="YoutubeAPI\PlaylistApi.cs" />
