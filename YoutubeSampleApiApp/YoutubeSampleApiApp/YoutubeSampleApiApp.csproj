@@ -267,13 +267,13 @@
     <Compile Include="YoutubeAPI\CaptionsApi.cs" />
     <Compile Include="YoutubeAPI\ChannelApi.cs" />
     <Compile Include="YoutubeAPI\ChannelBannerApi.cs" />
-    <Compile Include="YoutubeAPI\ChannelSectionsApi.cs" />
     <Compile Include="YoutubeAPI\CommentsApi.cs" />
     <Compile Include="YoutubeAPI\CommentThreadsApi.cs" />
     <Compile Include="YoutubeAPI\PlaylistItemApi.cs" />
     <Compile Include="YoutubeAPI\SearchApi.cs" />
     <Compile Include="YoutubeAPI\SubscriptonApi.cs" />
     <Compile Include="YoutubeAPI\ThumbnailsApi.cs" />
+    <Compile Include="YoutubeAPI\WatermarkApi.cs" />
     <Compile Include="YoutubeAPI\YoutubeApi.cs" />
     <Compile Include="YoutubeAPI\PlaylistApi.cs" />
     <Compile Include="YoutubeAPI\VideoApi.cs" />

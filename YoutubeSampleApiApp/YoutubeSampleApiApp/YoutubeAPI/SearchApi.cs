@@ -22,10 +22,10 @@ namespace YoutubeSampleApiApp.YoutubeAPI
             searchRequest.Q = query;
             searchRequest.MaxResults = 50;
 
-            var response =  searchRequest.ExecuteAsync();
-            if (response.Result.Items.Count > 0)
+            var response =  searchRequest.Execute();
+            if (response.Items.Count > 0)
             {
-                foreach (var item in response.Result.Items)
+                foreach (var item in response.Items)
                 {
                     result = new SearchResult();
                     result.Snippet = new SearchResultSnippet();

@@ -21,13 +21,13 @@ namespace YoutubeSampleApiApp.Controllers
         ChannelApi ch = new ChannelApi();
         SearchApi s = new SearchApi();
         ThumbnailsApi th = new ThumbnailsApi();
+        ActivitiesApi a = new ActivitiesApi();
+        WatermarkApi w = new WatermarkApi();
+
 
         public ActionResult Index()
         {
-
-            th.SetThumbnail("0XeKFxFhHbQ").Wait();
-
-
+            w.UnsetWatermark("UCApZOIRP6xP_86O8_vmD-RA").Wait();    
 
             return View();
         }
