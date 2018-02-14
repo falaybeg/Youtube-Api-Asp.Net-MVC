@@ -15,12 +15,18 @@ namespace YoutubeSampleApiApp.Controllers
         VideoApi v = new VideoApi();
         PlaylistApi p = new PlaylistApi();
         PlaylistItemApi pi = new PlaylistItemApi();
+        CommentThreadsApi ct = new CommentThreadsApi();
+        CommentsApi c = new CommentsApi();
+        ChannelBannerApi chb = new ChannelBannerApi();
+        ChannelApi ch = new ChannelApi();
+        SearchApi s = new SearchApi();
+        ThumbnailsApi th = new ThumbnailsApi();
 
         public ActionResult Index()
         {
-            //string pid = "uzaVE6x81GU";
-            //var result = pi.DeletePlaylistItem(pid);
-            v.GetRatingVideo("Pp8boH-iTdg").Wait();
+
+            th.SetThumbnail("0XeKFxFhHbQ").Wait();
+
 
 
             return View();

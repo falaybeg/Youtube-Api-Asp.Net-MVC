@@ -16,12 +16,13 @@ namespace YoutubeSampleApiApp.YoutubeAPI
         public PlaylistItem GetPlaylistItem(string playlistId)
         {
             PlaylistItem playlistItem = null;
-            if(playlistId != null)
+            
+            if (playlistId != null)
             {
                 var itemListRequest = youtubeService.PlaylistItems.List("snippet,contentDetails,status");
                 itemListRequest.PlaylistId = playlistId;
                 itemListRequest.MaxResults = 50;
-
+                
                 var response = itemListRequest.Execute();
                 if(response.Items.Count > 0)
                 {
@@ -55,7 +56,8 @@ namespace YoutubeSampleApiApp.YoutubeAPI
             await insertRequest.ExecuteAsync();
         }
 
-        public async Task UpdatePlaylistItem() // it does not work
+        // it does not work
+        public async Task UpdatePlaylistItem()
         {
             PlaylistItem playlistItem = new PlaylistItem();
             playlistItem.Snippet = new PlaylistItemSnippet();
@@ -71,10 +73,8 @@ namespace YoutubeSampleApiApp.YoutubeAPI
             await insertRequest.ExecuteAsync();
         }
 
-
-
         // it doesn't work 
-        public async Task DeletePlaylistItem(string playlistItemId) // it does not work
+        public async Task DeletePlaylistItem(string playlistItemId) 
         {
             
             string playlistId = "PL9p29QaOsT3dv3GpQdwVlkT1Iv7xhJYIX";

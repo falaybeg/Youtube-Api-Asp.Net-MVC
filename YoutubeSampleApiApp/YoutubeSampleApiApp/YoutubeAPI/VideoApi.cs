@@ -58,7 +58,7 @@ namespace YoutubeSampleApiApp.Youtube_API
             var filePath = @"D:\Introduction.mp4"; // Replace with path to actual movie file.
 
 
-            using (var fileStream = new FileStream(filePath, FileMode.Open, FileAccess.Read))
+            using (FileStream fileStream = new FileStream(filePath, FileMode.Open, FileAccess.Read))
             {
                 var videosInsertRequest = youtubeService.Videos.Insert(video, "snippet,status", fileStream, "video/*");
                 await videosInsertRequest.UploadAsync();
@@ -114,7 +114,13 @@ namespace YoutubeSampleApiApp.Youtube_API
 
         public async Task ReportAbuseVideo()
         {
-            //var reportRequest = youtubeService.Videos.ReportAbuse();
+            // here we have to get VideoAbuseReportReasons list from another service.
+            VideoAbuseReport report = new VideoAbuseReport();
+            report.ReasonId = "30";
+            report.VideoId = "0XeKFxFhHbQ";
+
+            var reportRequest = youtubeService.Videos.ReportAbuse(report);
+            await reportRequest.ExecuteAsync();
         }
 
 
