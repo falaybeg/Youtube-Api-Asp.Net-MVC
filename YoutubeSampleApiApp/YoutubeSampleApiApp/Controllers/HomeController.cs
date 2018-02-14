@@ -24,10 +24,8 @@ namespace YoutubeSampleApiApp.Controllers
         ActivitiesApi a = new ActivitiesApi();
         WatermarkApi w = new WatermarkApi();
 
-
         public ActionResult Index()
         {
-            w.UnsetWatermark("UCApZOIRP6xP_86O8_vmD-RA").Wait();    
 
             return View();
         }

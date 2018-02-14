@@ -57,7 +57,6 @@ namespace YoutubeSampleApiApp.Youtube_API
             video.Status.PrivacyStatus = "public"; // or "private" or "public"
             var filePath = @"D:\Introduction.mp4"; // Replace with path to actual movie file.
 
-
             using (FileStream fileStream = new FileStream(filePath, FileMode.Open, FileAccess.Read))
             {
                 var videosInsertRequest = youtubeService.Videos.Insert(video, "snippet,status", fileStream, "video/*");

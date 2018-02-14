@@ -264,11 +264,13 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Startup.cs" />
     <Compile Include="YoutubeAPI\ActivitiesApi.cs" />
+    <Compile Include="YoutubeAPI\CahnnelSectionsApi.cs" />
     <Compile Include="YoutubeAPI\CaptionsApi.cs" />
     <Compile Include="YoutubeAPI\ChannelApi.cs" />
     <Compile Include="YoutubeAPI\ChannelBannerApi.cs" />
     <Compile Include="YoutubeAPI\CommentsApi.cs" />
     <Compile Include="YoutubeAPI\CommentThreadsApi.cs" />
+    <Compile Include="YoutubeAPI\GuideCategoriesApi.cs" />
     <Compile Include="YoutubeAPI\PlaylistItemApi.cs" />
     <Compile Include="YoutubeAPI\SearchApi.cs" />
     <Compile Include="YoutubeAPI\SubscriptonApi.cs" />
