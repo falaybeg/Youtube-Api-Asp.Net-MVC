@@ -1,0 +1,252 @@
+C:\Users\Admin\documents\visual studio 2017\Projects\YandexDiskApiSample\YandexDiskApiSample\bin\ApplicationInsights.config
+C:\Users\Admin\documents\visual studio 2017\Projects\YandexDiskApiSample\YandexDiskApiSample\bin\YandexDiskApiSample.dll.config
+C:\Users\Admin\documents\visual studio 2017\Projects\YandexDiskApiSample\YandexDiskApiSample\bin\YandexDiskApiSample.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\YandexDiskApiSample\YandexDiskApiSample\bin\YandexDiskApiSample.pdb
+C:\Users\Admin\documents\visual studio 2017\Projects\YandexDiskApiSample\YandexDiskApiSample\bin\Antlr3.Runtime.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\YandexDiskApiSample\YandexDiskApiSample\bin\EntityFramework.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\YandexDiskApiSample\YandexDiskApiSample\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.AI.Web.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.Owin.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.Owin.Security.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\YandexDiskApiSample\YandexDiskApiSample\bin\Newtonsoft.Json.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\YandexDiskApiSample\YandexDiskApiSample\bin\Owin.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\YandexDiskApiSample\YandexDiskApiSample\bin\System.Net.Http.Extensions.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\YandexDiskApiSample\YandexDiskApiSample\bin\System.Net.Http.Formatting.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\YandexDiskApiSample\YandexDiskApiSample\bin\System.Net.Http.Primitives.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\YandexDiskApiSample\YandexDiskApiSample\bin\System.Web.Helpers.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\YandexDiskApiSample\YandexDiskApiSample\bin\System.Web.Mvc.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\YandexDiskApiSample\YandexDiskApiSample\bin\System.Web.Optimization.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\YandexDiskApiSample\YandexDiskApiSample\bin\System.Web.Razor.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\YandexDiskApiSample\YandexDiskApiSample\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\YandexDiskApiSample\YandexDiskApiSample\bin\System.Web.WebPages.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\YandexDiskApiSample\YandexDiskApiSample\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\YandexDiskApiSample\YandexDiskApiSample\bin\WebGrease.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\YandexDiskApiSample\YandexDiskApiSample\bin\YandexDisk.Client.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\YandexDiskApiSample\YandexDiskApiSample\bin\YandexDiskSDK.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\YandexDiskApiSample\YandexDiskApiSample\bin\YandexDiskSDK.pdb
+C:\Users\Admin\documents\visual studio 2017\Projects\YandexDiskApiSample\YandexDiskApiSample\bin\YandexDiskSDK.dll.config
+C:\Users\Admin\documents\visual studio 2017\Projects\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\YandexDiskApiSample\YandexDiskApiSample\bin\System.Net.Http.Extensions.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\YandexDiskApiSample\YandexDiskApiSample\bin\System.Net.Http.Formatting.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\YandexDiskApiSample\YandexDiskApiSample\bin\System.Net.Http.Primitives.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\YandexDiskApiSample\YandexDiskApiSample\bin\System.Web.Helpers.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\YandexDiskApiSample\YandexDiskApiSample\bin\System.Web.Mvc.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\YandexDiskApiSample\YandexDiskApiSample\bin\System.Web.Optimization.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\YandexDiskApiSample\YandexDiskApiSample\bin\System.Web.Razor.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\YandexDiskApiSample\YandexDiskApiSample\bin\System.Web.WebPages.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\YandexDiskApiSample\YandexDiskApiSample\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\YandexDiskApiSample\YandexDiskApiSample\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\YandexDiskApiSample\YandexDiskApiSample\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\documents\visual studio 2017\Projects\YandexDiskApiSample\YandexDiskApiSample\bin\YandexDisk.Client.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\YandexDiskApiSample\YandexDiskApiSample\bin\Newtonsoft.Json.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\YandexDiskApiSample\YandexDiskApiSample\bin\EntityFramework.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\YandexDiskApiSample\YandexDiskApiSample\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.Owin.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.Owin.Security.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.AI.Web.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\YandexDiskApiSample\YandexDiskApiSample\obj\Debug\YandexDiskApiSample.csproj.App.config
+C:\Users\Admin\documents\visual studio 2017\Projects\YandexDiskApiSample\YandexDiskApiSample\obj\Debug\YandexDiskApiSample.csprojResolveAssemblyReference.cache
+C:\Users\Admin\documents\visual studio 2017\Projects\YandexDiskApiSample\YandexDiskApiSample\obj\Debug\YandexDiskApiSample.csproj.CoreCompileInputs.cache
+C:\Users\Admin\documents\visual studio 2017\Projects\YandexDiskApiSample\YandexDiskApiSample\obj\Debug\YandexDiskApiSample.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\YandexDiskApiSample\YandexDiskApiSample\obj\Debug\YandexDiskApiSample.pdb
+C:\Users\Admin\Desktop\YandexDiskApiSample\YandexDiskApiSample\YandexDiskApiSample\bin\ApplicationInsights.config
+C:\Users\Admin\Desktop\YandexDiskApiSample\YandexDiskApiSample\YandexDiskApiSample\bin\YandexDiskApiSample.dll.config
+C:\Users\Admin\Desktop\YandexDiskApiSample\YandexDiskApiSample\YandexDiskApiSample\bin\YandexDiskApiSample.dll
+C:\Users\Admin\Desktop\YandexDiskApiSample\YandexDiskApiSample\YandexDiskApiSample\bin\YandexDiskApiSample.pdb
+C:\Users\Admin\Desktop\YandexDiskApiSample\YandexDiskApiSample\YandexDiskApiSample\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\YandexDiskApiSample\YandexDiskApiSample\YandexDiskApiSample\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\YandexDiskApiSample\YandexDiskApiSample\YandexDiskApiSample\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\YandexDiskApiSample\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Admin\Desktop\YandexDiskApiSample\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Admin\Desktop\YandexDiskApiSample\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Admin\Desktop\YandexDiskApiSample\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Admin\Desktop\YandexDiskApiSample\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.AI.Web.dll
+C:\Users\Admin\Desktop\YandexDiskApiSample\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Admin\Desktop\YandexDiskApiSample\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Admin\Desktop\YandexDiskApiSample\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Admin\Desktop\YandexDiskApiSample\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Admin\Desktop\YandexDiskApiSample\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Admin\Desktop\YandexDiskApiSample\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\YandexDiskApiSample\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.Owin.dll
+C:\Users\Admin\Desktop\YandexDiskApiSample\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Admin\Desktop\YandexDiskApiSample\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Admin\Desktop\YandexDiskApiSample\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.Owin.Security.dll
+C:\Users\Admin\Desktop\YandexDiskApiSample\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Admin\Desktop\YandexDiskApiSample\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Admin\Desktop\YandexDiskApiSample\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Admin\Desktop\YandexDiskApiSample\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Admin\Desktop\YandexDiskApiSample\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Admin\Desktop\YandexDiskApiSample\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\YandexDiskApiSample\YandexDiskApiSample\YandexDiskApiSample\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\YandexDiskApiSample\YandexDiskApiSample\YandexDiskApiSample\bin\Owin.dll
+C:\Users\Admin\Desktop\YandexDiskApiSample\YandexDiskApiSample\YandexDiskApiSample\bin\System.Net.Http.Extensions.dll
+C:\Users\Admin\Desktop\YandexDiskApiSample\YandexDiskApiSample\YandexDiskApiSample\bin\System.Net.Http.Formatting.dll
+C:\Users\Admin\Desktop\YandexDiskApiSample\YandexDiskApiSample\YandexDiskApiSample\bin\System.Net.Http.Primitives.dll
+C:\Users\Admin\Desktop\YandexDiskApiSample\YandexDiskApiSample\YandexDiskApiSample\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\YandexDiskApiSample\YandexDiskApiSample\YandexDiskApiSample\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\YandexDiskApiSample\YandexDiskApiSample\YandexDiskApiSample\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\YandexDiskApiSample\YandexDiskApiSample\YandexDiskApiSample\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\YandexDiskApiSample\YandexDiskApiSample\YandexDiskApiSample\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\YandexDiskApiSample\YandexDiskApiSample\YandexDiskApiSample\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\YandexDiskApiSample\YandexDiskApiSample\YandexDiskApiSample\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\YandexDiskApiSample\YandexDiskApiSample\YandexDiskApiSample\bin\WebGrease.dll
+C:\Users\Admin\Desktop\YandexDiskApiSample\YandexDiskApiSample\YandexDiskApiSample\bin\YandexDisk.Client.dll
+C:\Users\Admin\Desktop\YandexDiskApiSample\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\YandexDiskApiSample\YandexDiskApiSample\YandexDiskApiSample\bin\System.Net.Http.Extensions.xml
+C:\Users\Admin\Desktop\YandexDiskApiSample\YandexDiskApiSample\YandexDiskApiSample\bin\System.Net.Http.Formatting.xml
+C:\Users\Admin\Desktop\YandexDiskApiSample\YandexDiskApiSample\YandexDiskApiSample\bin\System.Net.Http.Primitives.xml
+C:\Users\Admin\Desktop\YandexDiskApiSample\YandexDiskApiSample\YandexDiskApiSample\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\YandexDiskApiSample\YandexDiskApiSample\YandexDiskApiSample\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\YandexDiskApiSample\YandexDiskApiSample\YandexDiskApiSample\bin\System.Web.Optimization.xml
+C:\Users\Admin\Desktop\YandexDiskApiSample\YandexDiskApiSample\YandexDiskApiSample\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\YandexDiskApiSample\YandexDiskApiSample\YandexDiskApiSample\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\YandexDiskApiSample\YandexDiskApiSample\YandexDiskApiSample\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\YandexDiskApiSample\YandexDiskApiSample\YandexDiskApiSample\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\YandexDiskApiSample\YandexDiskApiSample\YandexDiskApiSample\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\YandexDiskApiSample\YandexDiskApiSample\YandexDiskApiSample\bin\YandexDisk.Client.xml
+C:\Users\Admin\Desktop\YandexDiskApiSample\YandexDiskApiSample\YandexDiskApiSample\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\YandexDiskApiSample\YandexDiskApiSample\YandexDiskApiSample\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\YandexDiskApiSample\YandexDiskApiSample\YandexDiskApiSample\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\YandexDiskApiSample\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Admin\Desktop\YandexDiskApiSample\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Admin\Desktop\YandexDiskApiSample\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Admin\Desktop\YandexDiskApiSample\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.Owin.xml
+C:\Users\Admin\Desktop\YandexDiskApiSample\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Admin\Desktop\YandexDiskApiSample\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.Owin.Security.xml
+C:\Users\Admin\Desktop\YandexDiskApiSample\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Admin\Desktop\YandexDiskApiSample\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Admin\Desktop\YandexDiskApiSample\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Admin\Desktop\YandexDiskApiSample\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Admin\Desktop\YandexDiskApiSample\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Admin\Desktop\YandexDiskApiSample\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Admin\Desktop\YandexDiskApiSample\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Admin\Desktop\YandexDiskApiSample\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Admin\Desktop\YandexDiskApiSample\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Admin\Desktop\YandexDiskApiSample\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Admin\Desktop\YandexDiskApiSample\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.AI.Web.xml
+C:\Users\Admin\Desktop\YandexDiskApiSample\YandexDiskApiSample\YandexDiskApiSample\obj\Debug\YandexDiskApiSample.csproj.App.config
+C:\Users\Admin\Desktop\YandexDiskApiSample\YandexDiskApiSample\YandexDiskApiSample\obj\Debug\YandexDiskApiSample.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\YandexDiskApiSample\YandexDiskApiSample\YandexDiskApiSample\obj\Debug\YandexDiskApiSample.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\YandexDiskApiSample\YandexDiskApiSample\YandexDiskApiSample\obj\Debug\YandexDiskApiSample.dll
+C:\Users\Admin\Desktop\YandexDiskApiSample\YandexDiskApiSample\YandexDiskApiSample\obj\Debug\YandexDiskApiSample.pdb
+C:\Users\Admin\Desktop\YandexDiskApiSample\YandexDiskApiSample\YandexDiskApiSample\bin\System.Web.Http.dll
+C:\Users\Admin\Desktop\YandexDiskApiSample\YandexDiskApiSample\YandexDiskApiSample\bin\System.Web.Http.WebHost.dll
+C:\Users\Admin\Desktop\YandexDiskApiSample\YandexDiskApiSample\YandexDiskApiSample\bin\System.Web.Http.xml
+C:\Users\Admin\Desktop\YandexDiskApiSample\YandexDiskApiSample\YandexDiskApiSample\bin\System.Web.Http.WebHost.xml
+C:\Users\Admin\Desktop\Yandex-Api-Asp.Net-MVC\YandexDiskApiSample\YandexDiskApiSample\bin\ApplicationInsights.config
+C:\Users\Admin\Desktop\Yandex-Api-Asp.Net-MVC\YandexDiskApiSample\YandexDiskApiSample\bin\YandexDiskApiSample.dll.config
+C:\Users\Admin\Desktop\Yandex-Api-Asp.Net-MVC\YandexDiskApiSample\YandexDiskApiSample\bin\YandexDiskApiSample.dll
+C:\Users\Admin\Desktop\Yandex-Api-Asp.Net-MVC\YandexDiskApiSample\YandexDiskApiSample\bin\YandexDiskApiSample.pdb
+C:\Users\Admin\Desktop\Yandex-Api-Asp.Net-MVC\YandexDiskApiSample\YandexDiskApiSample\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\Yandex-Api-Asp.Net-MVC\YandexDiskApiSample\YandexDiskApiSample\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\Yandex-Api-Asp.Net-MVC\YandexDiskApiSample\YandexDiskApiSample\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\Yandex-Api-Asp.Net-MVC\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Admin\Desktop\Yandex-Api-Asp.Net-MVC\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Admin\Desktop\Yandex-Api-Asp.Net-MVC\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Admin\Desktop\Yandex-Api-Asp.Net-MVC\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Admin\Desktop\Yandex-Api-Asp.Net-MVC\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.AI.Web.dll
+C:\Users\Admin\Desktop\Yandex-Api-Asp.Net-MVC\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Admin\Desktop\Yandex-Api-Asp.Net-MVC\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Admin\Desktop\Yandex-Api-Asp.Net-MVC\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Admin\Desktop\Yandex-Api-Asp.Net-MVC\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Admin\Desktop\Yandex-Api-Asp.Net-MVC\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Admin\Desktop\Yandex-Api-Asp.Net-MVC\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\Yandex-Api-Asp.Net-MVC\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.Owin.dll
+C:\Users\Admin\Desktop\Yandex-Api-Asp.Net-MVC\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Admin\Desktop\Yandex-Api-Asp.Net-MVC\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Admin\Desktop\Yandex-Api-Asp.Net-MVC\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.Owin.Security.dll
+C:\Users\Admin\Desktop\Yandex-Api-Asp.Net-MVC\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Admin\Desktop\Yandex-Api-Asp.Net-MVC\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Admin\Desktop\Yandex-Api-Asp.Net-MVC\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Admin\Desktop\Yandex-Api-Asp.Net-MVC\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Admin\Desktop\Yandex-Api-Asp.Net-MVC\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Admin\Desktop\Yandex-Api-Asp.Net-MVC\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\Yandex-Api-Asp.Net-MVC\YandexDiskApiSample\YandexDiskApiSample\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Yandex-Api-Asp.Net-MVC\YandexDiskApiSample\YandexDiskApiSample\bin\Owin.dll
+C:\Users\Admin\Desktop\Yandex-Api-Asp.Net-MVC\YandexDiskApiSample\YandexDiskApiSample\bin\System.Net.Http.Extensions.dll
+C:\Users\Admin\Desktop\Yandex-Api-Asp.Net-MVC\YandexDiskApiSample\YandexDiskApiSample\bin\System.Net.Http.Formatting.dll
+C:\Users\Admin\Desktop\Yandex-Api-Asp.Net-MVC\YandexDiskApiSample\YandexDiskApiSample\bin\System.Net.Http.Primitives.dll
+C:\Users\Admin\Desktop\Yandex-Api-Asp.Net-MVC\YandexDiskApiSample\YandexDiskApiSample\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\Yandex-Api-Asp.Net-MVC\YandexDiskApiSample\YandexDiskApiSample\bin\System.Web.Http.dll
+C:\Users\Admin\Desktop\Yandex-Api-Asp.Net-MVC\YandexDiskApiSample\YandexDiskApiSample\bin\System.Web.Http.WebHost.dll
+C:\Users\Admin\Desktop\Yandex-Api-Asp.Net-MVC\YandexDiskApiSample\YandexDiskApiSample\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\Yandex-Api-Asp.Net-MVC\YandexDiskApiSample\YandexDiskApiSample\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\Yandex-Api-Asp.Net-MVC\YandexDiskApiSample\YandexDiskApiSample\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\Yandex-Api-Asp.Net-MVC\YandexDiskApiSample\YandexDiskApiSample\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\Yandex-Api-Asp.Net-MVC\YandexDiskApiSample\YandexDiskApiSample\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\Yandex-Api-Asp.Net-MVC\YandexDiskApiSample\YandexDiskApiSample\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\Yandex-Api-Asp.Net-MVC\YandexDiskApiSample\YandexDiskApiSample\bin\WebGrease.dll
+C:\Users\Admin\Desktop\Yandex-Api-Asp.Net-MVC\YandexDiskApiSample\YandexDiskApiSample\bin\YandexDisk.Client.dll
+C:\Users\Admin\Desktop\Yandex-Api-Asp.Net-MVC\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\Yandex-Api-Asp.Net-MVC\YandexDiskApiSample\YandexDiskApiSample\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\Yandex-Api-Asp.Net-MVC\YandexDiskApiSample\YandexDiskApiSample\bin\System.Net.Http.Extensions.xml
+C:\Users\Admin\Desktop\Yandex-Api-Asp.Net-MVC\YandexDiskApiSample\YandexDiskApiSample\bin\System.Net.Http.Formatting.xml
+C:\Users\Admin\Desktop\Yandex-Api-Asp.Net-MVC\YandexDiskApiSample\YandexDiskApiSample\bin\System.Net.Http.Primitives.xml
+C:\Users\Admin\Desktop\Yandex-Api-Asp.Net-MVC\YandexDiskApiSample\YandexDiskApiSample\bin\System.Web.Http.xml
+C:\Users\Admin\Desktop\Yandex-Api-Asp.Net-MVC\YandexDiskApiSample\YandexDiskApiSample\bin\System.Web.Http.WebHost.xml
+C:\Users\Admin\Desktop\Yandex-Api-Asp.Net-MVC\YandexDiskApiSample\YandexDiskApiSample\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\Yandex-Api-Asp.Net-MVC\YandexDiskApiSample\YandexDiskApiSample\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\Yandex-Api-Asp.Net-MVC\YandexDiskApiSample\YandexDiskApiSample\bin\System.Web.Optimization.xml
+C:\Users\Admin\Desktop\Yandex-Api-Asp.Net-MVC\YandexDiskApiSample\YandexDiskApiSample\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\Yandex-Api-Asp.Net-MVC\YandexDiskApiSample\YandexDiskApiSample\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\Yandex-Api-Asp.Net-MVC\YandexDiskApiSample\YandexDiskApiSample\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\Yandex-Api-Asp.Net-MVC\YandexDiskApiSample\YandexDiskApiSample\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\Yandex-Api-Asp.Net-MVC\YandexDiskApiSample\YandexDiskApiSample\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\Yandex-Api-Asp.Net-MVC\YandexDiskApiSample\YandexDiskApiSample\bin\YandexDisk.Client.xml
+C:\Users\Admin\Desktop\Yandex-Api-Asp.Net-MVC\YandexDiskApiSample\YandexDiskApiSample\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\Yandex-Api-Asp.Net-MVC\YandexDiskApiSample\YandexDiskApiSample\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\Yandex-Api-Asp.Net-MVC\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Admin\Desktop\Yandex-Api-Asp.Net-MVC\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Admin\Desktop\Yandex-Api-Asp.Net-MVC\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Admin\Desktop\Yandex-Api-Asp.Net-MVC\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.Owin.xml
+C:\Users\Admin\Desktop\Yandex-Api-Asp.Net-MVC\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Admin\Desktop\Yandex-Api-Asp.Net-MVC\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.Owin.Security.xml
+C:\Users\Admin\Desktop\Yandex-Api-Asp.Net-MVC\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Admin\Desktop\Yandex-Api-Asp.Net-MVC\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Admin\Desktop\Yandex-Api-Asp.Net-MVC\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Admin\Desktop\Yandex-Api-Asp.Net-MVC\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Admin\Desktop\Yandex-Api-Asp.Net-MVC\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Admin\Desktop\Yandex-Api-Asp.Net-MVC\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Admin\Desktop\Yandex-Api-Asp.Net-MVC\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Admin\Desktop\Yandex-Api-Asp.Net-MVC\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Admin\Desktop\Yandex-Api-Asp.Net-MVC\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Admin\Desktop\Yandex-Api-Asp.Net-MVC\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Admin\Desktop\Yandex-Api-Asp.Net-MVC\YandexDiskApiSample\YandexDiskApiSample\bin\Microsoft.AI.Web.xml
+C:\Users\Admin\Desktop\Yandex-Api-Asp.Net-MVC\YandexDiskApiSample\YandexDiskApiSample\obj\Debug\YandexDiskApiSample.csproj.App.config
+C:\Users\Admin\Desktop\Yandex-Api-Asp.Net-MVC\YandexDiskApiSample\YandexDiskApiSample\obj\Debug\YandexDiskApiSample.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Yandex-Api-Asp.Net-MVC\YandexDiskApiSample\YandexDiskApiSample\obj\Debug\YandexDiskApiSample.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Yandex-Api-Asp.Net-MVC\YandexDiskApiSample\YandexDiskApiSample\obj\Debug\YandexDiskApiSample.csproj.CopyComplete
+C:\Users\Admin\Desktop\Yandex-Api-Asp.Net-MVC\YandexDiskApiSample\YandexDiskApiSample\obj\Debug\YandexDiskApiSample.dll
+C:\Users\Admin\Desktop\Yandex-Api-Asp.Net-MVC\YandexDiskApiSample\YandexDiskApiSample\obj\Debug\YandexDiskApiSample.pdb

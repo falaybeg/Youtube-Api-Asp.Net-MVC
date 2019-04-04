@@ -1,0 +1,46 @@
+﻿@model YoutubeSampleApiApp.Models.YoutubeVideo
+
+@{
+    ViewBag.Title = "Home Page";
+}
+<br />
+
+<div class="row">
+    <div class="col-md-12">
+       
+        <div class="col-md-6">
+            <div class="row">
+                <img src="@Model.Thumbnails.High.Url" />
+                <div>
+                    <label><b style="font-size: 18px">Title:</b>&nbsp;&nbsp; @Model.title </label>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="col-md-6">
+            <div class="row">
+
+               
+                <div class="form-group">
+                    <label class="form-control" style="height:175px">Description: <i style="font-size:12px">@Model.description</i> </label>
+                </div>
+                <div class="form-group">
+                    <label class="form-control">PublishedDate:  @Model.publishedDate</label>
+                </div>
+                <div class="form-group">
+                    <label class="form-control">Channel Id:  @Model.channelId</label>
+                </div>
+                <div class="form-group">
+                    <label class="form-control">High: <span> <a href="@Model.Thumbnails.High.Url">High Resolution</a></span></label>
+                    <label class="form-control">Medium: <span> <a href="@Model.Thumbnails.Medium.Url">Medium Resolution</a></span></label>
+                    <label class="form-control">Max Resolution: <span> <a href=" @Model.Thumbnails.Maxres.Url">Max Resolution</a></span></label>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+
+

@@ -1,0 +1,16 @@
+﻿@model OneDriveDeneme_23_02_2018.Models.FIleUploadModel
+@{
+    ViewBag.Title = "Upload";
+}
+
+<h2>Upload</h2>
+
+
+@using (Html.BeginForm("Upload", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    <div class="form-control">
+        <input type="file"  name="file" id="file"/>
+    </div>
+    <br />
+    <button class="btn btn-success">Upload</button>
+}
